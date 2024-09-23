@@ -1,0 +1,7 @@
+9/23/24 1646 
+
+- created html file for giraffe
+- decided to do multiple biomes with multiple animals
+- i'm getting ahead of myself; i need to finish lion and hippo before moving on
+	- lion and hippo both need pictures
+	- both need to have their links added to the home page
