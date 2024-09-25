@@ -1,3 +1,18 @@
+9/24/24 0836
+- started experimenting with fonts
+- REMEMBER to fix font issue on home page
+	- animal links are not oriented properly anymore
+-change picture on homepage
+
+
+
+9/23/24 1900
+- finished all html pages for all animals
+- created links from home page to all other pages
+- links work
+
+
+
 9/23/24 1646 
 
 - created html file for giraffe
