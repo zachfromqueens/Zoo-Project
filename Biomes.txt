@@ -1,5 +1,0 @@
-This is the list of Biomes in the Zoo.
--Desert
--Tundra
--Rainforest
--Savanna

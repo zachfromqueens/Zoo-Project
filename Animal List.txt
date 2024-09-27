@@ -1,6 +1,0 @@
-Animal List
-
-lion 
-gazelle
-giraffe
-elephant
